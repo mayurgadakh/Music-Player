@@ -1,2 +1,2 @@
 # Music Player
-This is a simple music player made by Python-Tkinter
+This is a simple music player made using Python-Tkinter
